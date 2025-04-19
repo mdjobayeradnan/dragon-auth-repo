@@ -6,7 +6,7 @@ const Navbar = () => {
     return (
         <div className='flex justify-between'>
            <div>image</div>
-           <div className='space-x-1.5'>
+           <div className='space-x-4'>
             <Link to="/" >Home</Link>
             <Link to="/about" >about</Link>
             <Link to="/carrier" >Carrier</Link>
